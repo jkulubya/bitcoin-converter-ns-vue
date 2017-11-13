@@ -1,8 +1,7 @@
-# NativeScript Vue.js Template
-
+# Bitcoin Converter (NS-Vue)
 This app is a port of the app made in [http://www.codemag.com/article/1711051](http://www.codemag.com/article/1711051) to NativeScript + Vue.js.
 
-It's based on the NS-Vue + Webpack template at [https://github.com/tralves/nativescript-vue-webpack-template] (https://github.com/tralves/nativescript-vue-webpack-template) and NS-Vue at [nativescript-vue](https://github.com/rigor789/nativescript-vue).
+It's based on the NS-Vue + Webpack template at [https://github.com/tralves/nativescript-vue-webpack-template](https://github.com/tralves/nativescript-vue-webpack-template) and NS-Vue at [nativescript-vue](https://github.com/rigor789/nativescript-vue).
 
 ## Usage
 
