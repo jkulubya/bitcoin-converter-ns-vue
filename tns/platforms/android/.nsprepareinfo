@@ -1,0 +1,9 @@
+{
+	"time": "Mon Nov 13 2017 14:16:24 GMT+0200 (SAST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "ec653a7d53ff14c434ca81491cb4e41dceb5b109661ac56e27ee93aea958e3eb",
+	"changesRequireBuildTime": "Mon Nov 13 2017 12:06:51 GMT+0200 (SAST)"
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/logo.png",
+        "source": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/background.png",
+        "source": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi/icon.png",
+        "source": "/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    }
+]

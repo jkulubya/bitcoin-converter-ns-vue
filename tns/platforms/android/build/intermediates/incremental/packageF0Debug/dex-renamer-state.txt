@@ -1,0 +1,4 @@
+#Mon Nov 13 12:07:28 SAST 2017
+base.0=/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/james/Projects/bitcoin-ns-vue/tns/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex
